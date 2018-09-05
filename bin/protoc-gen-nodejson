@@ -1,0 +1,4 @@
+#!/usr/bin/env node
+
+console.error('going to index')
+require('../index')

@@ -1,0 +1,22 @@
+{
+  "name": "protoc-node-tojson",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "bin": {
+    "protoc-gen-nodejson": "bin/protoc-gen-nodejson"
+  },
+  "author": "Rahman Mousavian",
+  "license": "ISC",
+  "homepage": "https://github.com/mousavian/protoc-gen-nodejson",
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:mousavian/protoc-gen-nodejson.git"
+  },
+  "dependencies": {
+    "protoc-plugin": "0.0.6"
+  }
+}
